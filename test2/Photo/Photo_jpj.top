@@ -1,7 +1,7 @@
 topic: ~Photo()
 language: jpj
 
-u:(写真とって {ください}) 了解です！ $TakePhoto=1
+u:(写真撮って {ください}) 了解です！ $TakePhoto=1
 
 u:^private ([いいね　かわいいです]) ありがとう、ジュリエット写真撮るのまだ素人です
 
